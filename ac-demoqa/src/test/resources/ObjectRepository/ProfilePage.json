@@ -1,0 +1,20 @@
+[
+	{
+		"webElementName": "Search TextBox",
+		"webElementType": "TextBox",
+		"frameName": "Main",
+		"English": {
+			"locatorType": "id",
+			"locatorValue": "searchBox"
+		}
+	},
+	{
+		"webElementName": "Logout Button",
+		"webElementType": "Button",
+		"frameName": "Main",
+		"English": {
+			"locatorType": "id",
+			"locatorValue": "submit"
+		}
+	}
+]

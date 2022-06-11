@@ -1,0 +1,47 @@
+[
+	{
+		"webElementName": "Login in Book Store Text",
+		"webElementType": "Label",
+		"frameName": "Main",
+		"English": {
+			"locatorType": "xpath",
+			"locatorValue": "//*[@id='userForm']/div[1]/h5"
+		}
+	},
+	{
+		"webElementName": "UserName TextBox",
+		"webElementType": "TextBox",
+		"frameName": "Main",
+		"English": {
+			"locatorType": "id",
+			"locatorValue": "userName"
+		}
+	},
+	{
+		"webElementName": "Password TextBox",
+		"webElementType": "TextBox",
+		"frameName": "Main",
+		"English": {
+			"locatorType": "id",
+			"locatorValue": "password"
+		}
+	},
+	{
+		"webElementName": "Login Button",
+		"webElementType": "Button",
+		"frameName": "Main",
+		"English": {
+			"locatorType": "id",
+			"locatorValue": "login"
+		}
+	},
+	{
+		"webElementName": "Login Error Message Text",
+		"webElementType": "Label",
+		"frameName": "Main",
+		"English": {
+			"locatorType": "id",
+			"locatorValue": "name"
+		}
+	}	
+]
